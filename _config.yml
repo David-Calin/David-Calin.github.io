@@ -5,4 +5,4 @@ show_downloads: true
 theme: jekyll-theme-minimal
 assets:
   stylesheets:
-    - /assets/css/img_resize.css
+    - /css/img_resize.css
