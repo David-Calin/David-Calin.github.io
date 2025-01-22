@@ -23,12 +23,15 @@ YouTube Creator @ TridentYT
 A/B/C Testing & Marketing ROAS Analysis
 - Made A/B/C tests for an email marketing campaign targeting different subject lines to optimize open rates
 - Reported a 12% increase in ROAS for a paid advertising campaign, helping to reallocate budgets
+
 University Tuition Machine & Deep Learning Models
 - Cleaned, normalized, cross-validated, and engineered features on training data to prepare for modeling
 - Won 2nd place (out of 48) in an advanced statistical learning course for maximizing coverage & accuracy of t-SNE, KNN, PCA, Neural Network, Stepwise/Quantile/Logistic Regression, Random Forest, & XGBoost models in predicting university tuition
+
 Database Optimization & Advanced SQL Querying
 - Used SQL to write complex queries to retrieve, manipulate, and analyze data from relational databases
 - Optimized database performance by refining indexes, reducing query execution time by 20%
+
 IBM Data Analyst Professional Certificate Capstone
 - Analyzed trends in several large datasets via Python (Plotly), creating interactive KPI dashboards
 - Used Python data mining techniques to identify key patterns that increased operational efficiency by 15%
