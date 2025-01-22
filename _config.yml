@@ -3,6 +3,3 @@ logo: portfolio/assets/headshot.png
 description: See the "Projects" section for examples of data analysis and marketing reports.
 show_downloads: true
 theme: jekyll-theme-minimal
-assets:
-  stylesheets:
-    - /css/img_resize.css
