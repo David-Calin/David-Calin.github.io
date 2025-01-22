@@ -1,10 +1,9 @@
 # Marketing Data Analyst
 
 ### Education
-- Data Science (Statistics Track), BA
----
-- Communication (Strategic Public Communication & PR Track), BA
----
+- Data Science (Statistics Track), BA ---
+- Communication (Strategic Public Communication & PR Track), BA ---
+
 
 ### Work Experience
 Mathematics Department Grader @ Rutgers University—New Brunswick
