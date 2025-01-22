@@ -1,5 +1,5 @@
 /* img_resize.css */
 img {
-    max-width: 60px; /* Adjust this value to make your image smaller or larger */
-    height: auto;
+    max-width: 40px; /* Adjust this value to make your image smaller or larger */
+    height: 40px;
 }
