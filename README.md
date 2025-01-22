@@ -32,5 +32,3 @@ Database Optimization & Advanced SQL Querying
 IBM Data Analyst Professional Certificate Capstone
 - Analyzed trends in several large datasets via Python (Plotly), creating interactive KPI dashboards
 - Used Python data mining techniques to identify key patterns that increased operational efficiency by 15%
-
-
